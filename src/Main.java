@@ -160,8 +160,8 @@ public class Main {
     public static void main(String[] args){
 
         Main MainObj =  new Main();
-        Player Player1 = new Player("Caleb");
-        Player Player2 = new Player("Marieke");
+        Player Player1 = new Player("Caleb van Haaren");
+        Player Player2 = new Player("Matt Deye");
         int Turn = 0;
         while(true) {
             if(Turn%2 == 0){
