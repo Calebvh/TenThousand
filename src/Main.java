@@ -162,7 +162,7 @@ public class Main {
         Main MainObj =  new Main();
         Player Player1 = new Player("Caleb van Haaren");
         Player Player2 = new Player("Here is a new  Player");
-        Player Player3 = new Player("Here is the master we are in the origin player");
+        Player Player3 = new Player("Here is the Correct player");
         int Turn = 0;
         while(true) {
             if(Turn%2 == 0){
